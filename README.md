@@ -8,6 +8,7 @@ a processing sketch to convert tab delineated .txt files containing subtitle inf
 
 
 The program accepts files stored in the following format
+
 -----------------------------------------------------------------------------------------------------
 inFrame    |    outFrame    |    subtitle line one    |    subtitle line two
 
@@ -18,6 +19,7 @@ outFrame :: frame number when the subtitle should end
 line one :: top line of subtitle
 
 line two :: second line of subtitle (optional)
+
 ------------------------------------------------------------------------------------------------------
 
 The simplest way to create the .txt file is to place your subtitles
